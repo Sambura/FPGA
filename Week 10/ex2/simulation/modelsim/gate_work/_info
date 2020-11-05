@@ -1,0 +1,155 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/simulation/modelsim
+vb1_mux_2_1_case
+Z1 !s110 1604425406
+!i10b 1
+!s100 NDom<;XVm3eh>Y]@]T[e93
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IbH7D<f;D]]m<Q[22YQKXj2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1604424612
+Z5 8C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/mux_2_1.v
+Z6 FC:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/mux_2_1.v
+!i122 2
+L0 33 14
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1604425406.000000
+!s107 C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/mux_2_1.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2|C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/mux_2_1.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2
+Z12 tCvgOpt 0
+vb1_mux_2_1_if
+R1
+!i10b 1
+!s100 G>4P`H0H7blcjG;hJ_bfP0
+R2
+IKmMBJDi@FRDo_dhf0ImHS3
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 18 15
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/mux_2_1.v|
+R9
+!i113 1
+R10
+R11
+R12
+vhard_block
+!s110 1604425405
+!i10b 1
+!s100 7M:W7QGEm<_T?m;zEGKdk3
+R2
+IAzJEZTEDGJNE?V8@UKbAZ3
+R3
+R0
+w1604425366
+8mux_2_1.vo
+Fmux_2_1.vo
+!i122 0
+L0 246 45
+R7
+r1
+!s85 0
+31
+!s108 1604425405.000000
+!s107 mux_2_1.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|mux_2_1.vo|
+!i113 1
+R10
+!s92 -vlog01compat -work work +incdir+.
+R12
+vmux_2_1
+R1
+!i10b 1
+!s100 [iGi0f6XjZTT`>8Onilli0
+R2
+IRFkfKSE^<;aiG3hmkBcja1
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 1 8
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 1
+R10
+R11
+R12
+vmux_2_1_ternary
+R1
+!i10b 1
+!s100 ]<<cPY07Al?4mhH^4n4^^1
+R2
+Izl^:<^]h=3CFWB_:HJ>b>3
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 9 9
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 1
+R10
+R11
+R12
+vtestbench
+R1
+!i10b 1
+!s100 nFK[S1S47UgMl5k;eJAb<1
+R2
+IRHz<=@hJil9G3X]gXCbfG2
+R3
+R0
+w1604425279
+8C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/testbench.v
+FC:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/testbench.v
+!i122 1
+L0 1 35
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2|C:/Users/manue/Desktop/ComputerArchitectureLab-master/Week5/ex2/testbench.v|
+!i113 1
+R10
+R11
+R12
